@@ -25,4 +25,4 @@ Este repositorio contiene herramientas desarrolladas en PowerShell y Batch para 
 El script de optimización elimina archivos de las carpetas temporales de Windows de forma definitiva. Se recomienda cerrar las aplicaciones en uso antes de ejecutarlo para evitar conflictos.
 
 ---
-*Desarrollado por [Tu Nombre/Usuario] - Orientado a Soporte Técnico y Administración de Sistemas.*
+*Desarrollado por Tomás/tomgamma - Orientado a Soporte Técnico y Administración de Sistemas.*
